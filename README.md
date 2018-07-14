@@ -1,5 +1,5 @@
 # I-start-lisp
-## My journey with Lisp (Common Lisp)
+My journey with Lisp (Common Lisp)
 
 ## Tools used:
 - Emacs
